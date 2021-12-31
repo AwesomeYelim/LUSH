@@ -1,6 +1,6 @@
 # Click 👉 <a href ="https://awesomeyelim.github.io/LUSH/">LUSH</a>
 - 기간 : 21.9.16
-- 목적 : LUSH 메인페이지 제작
+- 목적 : LUSH 메인페이지 제작.
 - 반응형 : O
 - css 애니메이션 구현
 - svg 애니메이션 구현
